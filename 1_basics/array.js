@@ -4,3 +4,4 @@ myArr.unshift(6)
 console.log(myArr)
 myArr.shift()
 console.log(myArr)
+
